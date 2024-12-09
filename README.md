@@ -98,7 +98,7 @@ while True:
 
 Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 
-* Tambah data : untuk menmbah data mahasiswa baru.
+* Tambah data : untuk menambah data mahasiswa baru.
 * Tampilkan data : untuk menampilkan semua data mahasiswa yang telah dimasukkan.
 * Hapus data : menghapus data mahasiswa berdasarkan nama.
 * Ubah data : mengubah nilai mahasiswa berdaskan nama.
